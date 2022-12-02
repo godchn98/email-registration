@@ -19,6 +19,8 @@ public class EmailApp {
 		Email em1 = new Email(firstname, lastname);
 		
 		System.out.println(em1.showInfo());
+
+		System.out.println("\n Please remeber your email address and password\n");
 		
 
 	}
